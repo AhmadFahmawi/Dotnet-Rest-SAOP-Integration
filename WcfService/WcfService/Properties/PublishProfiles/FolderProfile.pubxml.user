@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\user\OneDrive\Desktop\wcf</_PublishTargetUrl>
+    <History>True|2023-01-28T09:22:40.8201634Z;True|2023-01-28T12:17:13.0025126+03:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/WcfService.dll">
+      <publishTime>01/28/2023 12:17:12</publishTime>
+    </File>
+    <File Include="bin/WcfService.pdb">
+      <publishTime>01/28/2023 12:17:12</publishTime>
+    </File>
+    <File Include="Service1.svc">
+      <publishTime>01/28/2023 11:50:57</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>01/28/2023 12:17:12</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
